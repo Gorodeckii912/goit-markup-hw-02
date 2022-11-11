@@ -9,7 +9,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 31;
   letter-spacing: 0.03em;
   color: #2196f3;
 }
@@ -19,7 +19,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 31;
   letter-spacing: 0.03em;
   color: #000000;
 }
@@ -29,7 +29,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 16;
   letter-spacing: 0.02em;
   color: #212121;
 }
@@ -43,7 +43,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 24;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -53,7 +53,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 24;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
@@ -66,19 +66,20 @@ body {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 60;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: #ffffff;
 }
 .Hbutton :hover {
-    display: flex;
-align-items: center;
-text-align: center;
-letter-spacing: 0.06em;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30;
 color: #FFFFFF;
-cursor: pointer;
+
 }
 
 /* section1 */
@@ -89,7 +90,7 @@ cursor: pointer;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 16;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
@@ -99,7 +100,7 @@ cursor: pointer;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 24;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -111,7 +112,7 @@ cursor: pointer;
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 42px;
+line-height: 42;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
@@ -127,7 +128,7 @@ color: #212121;
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 42px;
+line-height: 42;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
@@ -138,7 +139,7 @@ color: #212121;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 19px;
+line-height: 19;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
@@ -149,7 +150,7 @@ color: #212121;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 19px;
+line-height: 19;
 text-align: center;
 letter-spacing: 0.03em;
 color: #757575;
@@ -162,7 +163,7 @@ color: #757575;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 26px;
+line-height: 26;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
@@ -176,19 +177,18 @@ cursor: pointer;
 font-style: normal;
 font-weight: 700;
 font-size: 18px;
-line-height: 36px;
+line-height: 36;
 letter-spacing: 0.06em;
 color: #212121;
 }
 
-.picture :hover { }
 
 .PS2p {
     font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 30px;
+line-height: 30;
 letter-spacing: 0.03em;
 color: #757575;
 }
