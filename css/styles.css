@@ -24,7 +24,7 @@ body {
   color: #000000;
 }
 
-.TextNAV {
+.TextNAV :hover {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -38,7 +38,7 @@ body {
 /* логотип скопирован из головы */
 
 
-.Adress {
+.Adress :hover {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -48,7 +48,7 @@ body {
   color: #ffffff;
 }
 
-.MiT {
+.MiT :hover {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -72,7 +72,7 @@ body {
   text-transform: uppercase;
   color: #ffffff;
 }
-.Hbutton {
+.Hbutton :hover {
     display: flex;
 align-items: center;
 text-align: center;
@@ -157,7 +157,7 @@ color: #757575;
 }
         /*Portfolio  */
 
-.btnP {
+.btnP :hover {
     font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -180,6 +180,8 @@ line-height: 36px;
 letter-spacing: 0.06em;
 color: #212121;
 }
+
+.picture :hover { }
 
 .PS2p {
     font-family: 'Roboto';
